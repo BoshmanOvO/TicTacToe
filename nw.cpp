@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+#define ll long long
 #define FOR(i , a , b) for(ll i = a; i <= b; ++i)
 #define FORd(i , a , b) for(ll i = a; i >= b; --i)
 
